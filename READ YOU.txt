@@ -1,1 +1,2 @@
-11lo_sdfds
+1. Checkout your brifecase.
+2. Calculate if not empty.
